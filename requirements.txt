@@ -1,0 +1,7 @@
+transformers==4.37.2
+torch==2.0.0
+numpy==1.24.4
+scipy
+gTTS
+pydub
+matplotlib
